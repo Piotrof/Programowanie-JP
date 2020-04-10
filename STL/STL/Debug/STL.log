@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\piotr\source\repos\STL\STL\main.cpp(17,5): error C3861: "make_heap": identyfikatora nie odnaleziono
+C:\Users\piotr\source\repos\STL\STL\main.cpp(22,13): error C2065: "numbers": niezadeklarowany identyfikator
